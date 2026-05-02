@@ -85,7 +85,7 @@ During this course, I developed a comprehensive understanding of the Salesforce 
 I implemented Screen Flows for attendee registration, Record-Triggered Flows for status updates, and Apex Triggers to ensure data integrity. The solution also features Lightning Web Components (LWC) for dynamic organizer dashboards and automated approval processes for vendor coordination. This project demonstrated my ability to translate complex business requirements into a scalable, automated Salesforce architecture.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/RAVNEET-KAUR-g1-salesforce/blob/1b466be36a9ce8e9395359a3a02b1f7654351cff/Course%20report/SURE%20Trust%20poject%20report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href=https://github.com/Ravneet-project/Event_Management_System/blob/57131a0d53291bf9a3a17bbf0d3e2c026113dcf6/Course%20report/SURE%20Trust%20poject%20report.pdf><strong>→ View Full Project Report</strong></a>
 </p>
 
 
