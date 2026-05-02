@@ -136,19 +136,19 @@ Through these activities, I developed a stronger sense of social responsibility.
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/6fa8a8ac-86f1-4fdc-8f37-23ec5e58d842"
+<img src="https://github.com/user-attachments/assets/ba4e7ca4-3130-4e46-8b96-c8274e8aca37"
  alt="Community Service Photo 1" width="30%">
-<img src="https://github.com/user-attachments/assets/0a757ac8-690f-4a4a-a27d-b94957048ed1" 
+<img src="https://github.com/user-attachments/assets/ccac66e9-837c-46ff-99d8-d5b80676d15c"
  alt="Community Service Photo 1" width="30%">
-<img src="https://github.com/user-attachments/assets/b5cdbbb4-2c26-4fd6-9a31-145f57a1b186"
+<img src="https://github.com/user-attachments/assets/53fdd1be-8c58-4ddf-a22c-283cd224ba31"
  alt="Community Service Photo 1" width="30%">
-<img src="https://github.com/user-attachments/assets/fd69e880-60f0-40d1-ac4a-863bb3a3d2b7"
+<img src="https://github.com/user-attachments/assets/bc18f977-5fb5-4551-b951-415f67f6d70f"
  alt="Community Service Photo 2" width="30%">
- <img src="https://github.com/user-attachments/assets/0f6aac66-a1cf-465f-9258-b1497b8885a0"
+ <img src="https://github.com/user-attachments/assets/16ec1fbf-347b-47dc-bab9-3c8d7c9d8bd2"
  alt="Community Service Photo 2" width="30%">
- <img src="https://github.com/user-attachments/assets/79167676-9485-4a4c-9c34-1ac3e7a91322"
+ <img src="https://github.com/user-attachments/assets/79656891-87fc-4367-9c01-3f25d11d9770"
  alt="Community Service Photo 2" width="30%">
- <img src="https://github.com/user-attachments/assets/26aadcbe-7cc5-47a6-851f-5d5ac01a5556"
+ <img src="https://github.com/user-attachments/assets/ecb67642-5798-4152-8f71-eecbae0719f8"
  alt="Community Service Photo 2" width="30%">
 
 </div>
